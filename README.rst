@@ -1,14 +1,12 @@
-Robonomics Network 2.0
-======================
-
 :Authors:
     Aleksandr Krupenkin <mail@akru.me>
 
 :Version: 1 of 2019/11 
 
-.. note::
+Robonomics Network 2.0
+======================
 
-    This document is technical specification for Rust developers.TODO
+    This document is technical specification for Rust developers.
     It could be used for implementing basic protocols and abstractions of Robonomics Network.
     Most part of described concepts is very experimental and wasn't well tested in real cases.
 
@@ -27,7 +25,7 @@ Robonomics Network 2.0
 2. Реестр спроса и предложения - открытая книга заказов на ведение хозяйственной деятельности. (open market)
 3. Регистрация обязательств - поселение факта сделки и протокола выполненных работ в хранилище, защищённое консенсусом. (blockchain)
 
-*Список может быть исправлен и дополнен.
+    Список может быть исправлен и дополнен
 
 **Функционал агента сети**
 

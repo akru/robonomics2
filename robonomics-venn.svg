@@ -1,26 +1,55 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="909" height="400"><defs></defs><rect x="2" y="2" width="906" height="397" fill="none" style="stroke: rgb(2, 111, 193); fill-opacity: 1; stroke-opacity: 1; stroke-width: 2px;"></rect><text style="font-size:10px;font-family:'Arial', sans-serif" fill="#000000" class="vennchart-title" x="454.5" y="5"></text><text style="font-size:10px;font-family:'Arial', sans-serif" fill="#000000" class="vennchart-subtitle" x="454.5" y="10"></text><g class="venn-area venn-circle venn-sets-0"><path style="fill-opacity: 0.25; fill: rgb(31, 119, 180); stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 399.144512473375 158.0602581009517 
-m -122.0602581009517 0 
-a 122.0602581009517 122.0602581009517 0 1 0 244.1205162019034 0 
-a 122.0602581009517 122.0602581009517 0 1 0 -244.1205162019034 0"></path><text style="fill: rgb(31, 119, 180);" text-anchor="middle" dy=".35em" x="342" y="125"><tspan x="342" y="125" dy="0.35em">Consensus</tspan></text></g><g class="venn-area venn-circle venn-sets-1"><path style="fill-opacity: 0.25; fill: rgb(255, 127, 14); stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 509.855487526625 158.10025407913787 
-m -122.0602581009517 0 
-a 122.0602581009517 122.0602581009517 0 1 0 244.1205162019034 0 
-a 122.0602581009517 122.0602581009517 0 1 0 -244.1205162019034 0"></path><text style="fill: rgb(255, 127, 14);" text-anchor="middle" dy=".35em" x="566" y="125"><tspan x="566" y="125" dy="0.35em">Technics</tspan></text></g><g class="venn-area venn-circle venn-sets-2"><path style="fill-opacity: 0.25; fill: rgb(44, 160, 44); stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 454.46636944098566 253.9397418990483 
-m -122.0602581009517 0 
-a 122.0602581009517 122.0602581009517 0 1 0 244.1205162019034 0 
-a 122.0602581009517 122.0602581009517 0 1 0 -244.1205162019034 0"></path><text style="fill: rgb(44, 160, 44);" text-anchor="middle" dy=".35em" x="454" y="317"><tspan x="454" y="317" dy="0.35em">Economics</tspan></text></g><g class="venn-area venn-intersection venn-sets-0_2"><path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 332.57560632243485 260.3700198128151 
-A 122.0602581009517 122.0602581009517 0 0 1 521.0352755919258 151.62998018718494 
-A 122.0602581009517 122.0602581009517 0 0 1 332.57560632243485 260.3700198128151"></path><text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="377" y="237"><tspan x="377" y="237" dy="-0.20000000000000007em">Cryptocurrencies</tspan></text></g><g class="venn-area venn-intersection venn-sets-0_1"><path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 454.4606993132643 266.8666277727931 
-A 122.0602581009517 122.0602581009517 0 0 1 454.5393006867357 49.293884407296446 
-A 122.0602581009517 122.0602581009517 0 0 1 454.4606993132643 266.8666277727931"></path><text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="454" y="102"><tspan x="454" y="102" dy="-0.20000000000000007em">Smart Contracts</tspan></text></g><g class="venn-area venn-intersection venn-sets-1_2"><path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 387.969330264758 151.58325510672924 
-A 122.0602581009517 122.0602581009517 0 0 1 576.3525267028526 260.456740871457 
-A 122.0602581009517 122.0602581009517 0 0 1 387.969330264758 151.58325510672924"></path><text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="531" y="237"><tspan x="531" y="237" dy="-0.20000000000000007em">Vending Machines</tspan></text></g><g class="venn-area venn-intersection venn-sets-0_1_2"><path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d="
-M 387.969330264758 151.58325510672924 
-A 122.0602581009517 122.0602581009517 0 0 1 521.0352755919258 151.62998018718494 
-A 122.0602581009517 122.0602581009517 0 0 1 454.4606993132643 266.8666277727931 
-A 122.0602581009517 122.0602581009517 0 0 1 387.969330264758 151.58325510672924"></path><text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="454" y="187"><tspan x="454" y="187" dy="-0.7500000000000001em">Robonomics</tspan></text></g></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="909" height="400">
+    <defs/>
+    <rect x="2" y="2" width="906" height="397" fill="none" style="stroke: rgb(2, 111, 193); fill-opacity: 1; stroke-opacity: 1; stroke-width: 2px;"/>
+    <text style="font-size:10px;font-family:'Arial', sans-serif" fill="#000000" class="vennchart-title" x="454.5" y="5"/>
+    <text style="font-size:10px;font-family:'Arial', sans-serif" fill="#000000" class="vennchart-subtitle" x="454.5" y="10"/>
+    <g class="venn-area venn-circle venn-sets-0">
+        <path style="fill-opacity: 0.25; fill: rgb(31, 119, 180); stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 399.144512473375 158.0602581009517  m -122.0602581009517 0  a 122.0602581009517 122.0602581009517 0 1 0 244.1205162019034 0  a 122.0602581009517 122.0602581009517 0 1 0 -244.1205162019034 0"/>
+        <text style="fill: rgb(31, 119, 180);" text-anchor="middle" dy=".35em" x="342" y="125">
+            <tspan x="342" y="125" dy="0.35em">Consensus</tspan>
+        </text>
+    </g>
+    <g class="venn-area venn-circle venn-sets-1">
+        <path style="fill-opacity: 0.25; fill: rgb(255, 127, 14); stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 509.855487526625 158.10025407913787  m -122.0602581009517 0  a 122.0602581009517 122.0602581009517 0 1 0 244.1205162019034 0  a 122.0602581009517 122.0602581009517 0 1 0 -244.1205162019034 0"/>
+        <text style="fill: rgb(255, 127, 14);" text-anchor="middle" dy=".35em" x="566" y="125">
+            <tspan x="566" y="125" dy="0.35em">Technics</tspan>
+        </text>
+    </g>
+    <g class="venn-area venn-circle venn-sets-2">
+        <path style="fill-opacity: 0.25; fill: rgb(44, 160, 44); stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 454.46636944098566 253.9397418990483  m -122.0602581009517 0  a 122.0602581009517 122.0602581009517 0 1 0 244.1205162019034 0  a 122.0602581009517 122.0602581009517 0 1 0 -244.1205162019034 0"/>
+        <text style="fill: rgb(44, 160, 44);" text-anchor="middle" dy=".35em" x="454" y="317">
+            <tspan x="454" y="317" dy="0.35em">Economics</tspan>
+        </text>
+    </g>
+    <g class="venn-area venn-intersection venn-sets-0_2">
+        <path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 332.57560632243485 260.3700198128151  A 122.0602581009517 122.0602581009517 0 0 1 521.0352755919258 151.62998018718494  A 122.0602581009517 122.0602581009517 0 0 1 332.57560632243485 260.3700198128151"/>
+        <text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="377" y="237">
+            <tspan x="377" y="237" dy="-0.20000000000000007em">Consensus ^</tspan>
+            <tspan x="377" y="237" dy="0.9em">Economics</tspan>
+        </text>
+    </g>
+    <g class="venn-area venn-intersection venn-sets-0_1">
+        <path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 454.4606993132643 266.8666277727931  A 122.0602581009517 122.0602581009517 0 0 1 454.5393006867357 49.293884407296446  A 122.0602581009517 122.0602581009517 0 0 1 454.4606993132643 266.8666277727931"/>
+        <text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="454" y="102">
+            <tspan x="454" y="102" dy="-0.20000000000000007em">Consensus ^</tspan>
+            <tspan x="454" y="102" dy="0.9em">Technics</tspan>
+        </text>
+    </g>
+    <g class="venn-area venn-intersection venn-sets-1_2">
+        <path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 387.969330264758 151.58325510672924  A 122.0602581009517 122.0602581009517 0 0 1 576.3525267028526 260.456740871457  A 122.0602581009517 122.0602581009517 0 0 1 387.969330264758 151.58325510672924"/>
+        <text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="531" y="237">
+            <tspan x="531" y="237" dy="-0.20000000000000007em">Technics ^</tspan>
+            <tspan x="531" y="237" dy="0.9em">Economics</tspan>
+        </text>
+    </g>
+    <g class="venn-area venn-intersection venn-sets-0_1_2">
+        <path style="fill-opacity: 0; stroke-opacity: 0; stroke: red; stroke-width: 0px;" d=" M 387.969330264758 151.58325510672924  A 122.0602581009517 122.0602581009517 0 0 1 521.0352755919258 151.62998018718494  A 122.0602581009517 122.0602581009517 0 0 1 454.4606993132643 266.8666277727931  A 122.0602581009517 122.0602581009517 0 0 1 387.969330264758 151.58325510672924"/>
+        <text style="fill: rgb(68, 68, 68);" text-anchor="middle" dy=".35em" x="454" y="187">
+            <tspan x="454" y="187" dy="-0.7500000000000001em">Consensus ^</tspan>
+            <tspan x="454" y="187" dy="0.35em">Technics ^</tspan>
+            <tspan x="454" y="187" dy="1.4500000000000002em">Economics</tspan>
+        </text>
+    </g>
+</svg>
